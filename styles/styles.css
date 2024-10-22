@@ -1,0 +1,17 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
